@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		DFB7B4F12CFF9AFD00E30066 /* CryptoSwiftUIApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = DFB7B4F02CFF9AFD00E30066 /* CryptoSwiftUIApp.swift */; };
+		DFB7B4F12CFF9AFD00E30066 /* CryptoSwiftUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = DFB7B4F02CFF9AFD00E30066 /* CryptoSwiftUI.swift */; };
 		DFB7B4F32CFF9AFD00E30066 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DFB7B4F22CFF9AFD00E30066 /* ContentView.swift */; };
 		DFB7B4F52CFF9B0000E30066 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DFB7B4F42CFF9B0000E30066 /* Assets.xcassets */; };
 		DFB7B4F82CFF9B0000E30066 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DFB7B4F72CFF9B0000E30066 /* Preview Assets.xcassets */; };
@@ -36,7 +36,7 @@
 
 /* Begin PBXFileReference section */
 		DFB7B4ED2CFF9AFD00E30066 /* CryptoSwiftUI.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CryptoSwiftUI.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		DFB7B4F02CFF9AFD00E30066 /* CryptoSwiftUIApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CryptoSwiftUIApp.swift; sourceTree = "<group>"; };
+		DFB7B4F02CFF9AFD00E30066 /* CryptoSwiftUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CryptoSwiftUI.swift; sourceTree = "<group>"; };
 		DFB7B4F22CFF9AFD00E30066 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		DFB7B4F42CFF9B0000E30066 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DFB7B4F72CFF9B0000E30066 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
@@ -97,7 +97,7 @@
 			isa = PBXGroup;
 			children = (
 				DFB7B51A2CFFAA6500E30066 /* Extensions */,
-				DFB7B4F02CFF9AFD00E30066 /* CryptoSwiftUIApp.swift */,
+				DFB7B4F02CFF9AFD00E30066 /* CryptoSwiftUI.swift */,
 				DFB7B4F22CFF9AFD00E30066 /* ContentView.swift */,
 				DFB7B4F42CFF9B0000E30066 /* Assets.xcassets */,
 				DFB7B4F62CFF9B0000E30066 /* Preview Content */,
@@ -262,7 +262,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				DFB7B4F32CFF9AFD00E30066 /* ContentView.swift in Sources */,
-				DFB7B4F12CFF9AFD00E30066 /* CryptoSwiftUIApp.swift in Sources */,
+				DFB7B4F12CFF9AFD00E30066 /* CryptoSwiftUI.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
